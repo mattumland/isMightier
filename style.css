@@ -5,25 +5,16 @@ body {
   background-color: gainsboro;
   color: black;
   max-width: 500px;
-  min-width: 220px;
   margin: 0 auto;
   font-family: 'Zen Kaku Gothic Antique', sans-serif;
   font-weight: 400;
 }
 
-@media screen and (max-width: 400px) {
-  body {
-  background-color: pink;
-  color: black;
-  max-width: 100%;
-  margin: 0 auto;
-  font-family: 'Zen Kaku Gothic Antique', sans-serif;
-  }
-}
 
 li {
-  margin-left: -25px;
+  margin-left: -22px;
 }
+
 
 h2,h3,h4,h5 {
   font-family: 'Zen Antique', cursive;
@@ -70,7 +61,8 @@ h1 {
 }
 
 .item {
-  margin: 0 auto 5px;
+  margin: 0 auto;
+  margin-bottom: 5px;
   width: 95%;
   padding: 5px;
   border-radius: 2px;
