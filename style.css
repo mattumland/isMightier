@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@400;500&display=swap');
+body {
+  background-color: gainsboro;
+  color: black;
+  max-width: 500px;
+  min-width: 220px;
+  margin: 0 auto;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 400px) {
+  body {
+  background-color: pink;
+  color: black;
+  max-width: 100%;
+  margin: 0 auto;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  }
+}
+
+li {
+  margin-left: -25px;
+}
+
+h2,h3,h4,h5 {
+  font-family: 'Zen Antique', cursive;
+}
+
+h2 {
+  text-decoration-line: underline;
+}
+
+h1 {
+  display: none;
+}
+
+.main-map {
+  border: solid black 2px;
+  border-radius: 5px;
+}
+
+.location {
+  border: solid black 2px;
+  border-radius: 5px;
+  margin: 10px 0 0 0;
+  background-color: white;
+}
+
+.map {
+  border-radius: 5px 5px 0 0;
+  border-bottom: solid black 2px;
+}
+
+.text {
+  padding: 0 10px;
+}
+
+.monster {
+  margin: 0 auto;
+  margin-bottom: 5px;
+  width: 95%;
+  padding: 5px;
+  border: solid white 1px;
+  border-radius: 2px;
+  background-color: black;
+  color: white;
+}
+
+.item {
+  margin: 0 auto 5px;
+  width: 95%;
+  padding: 5px;
+  border-radius: 2px;
+  background-color: gainsboro;
+  color: black;
+}
+
+.right {
+  float: right;
+  width: 40%;
+}
+
+.banner-image {
+  border-radius: 2px;
+}
