@@ -87,7 +87,7 @@ Handheld telescope with a [**Preserved Eye**](#5-living-quarters) stuck in the o
 </div>
 
 * **d4 Mountain Birds** roost in a nest shredded parchment.
-* Refuse in the corner conceals a hidden bird graveyard. 
+* **Secret door**: Refuse in the corner conceals a hidden bird graveyard. 
   * Mountain Bird skeletons arranged neatly.
   * Piles of shiny objects sit in front of each.
     * d66 gp in small coin, gems and trinkets.
@@ -221,7 +221,7 @@ Pure alcohol, immaculately distilled. Powerful ink solvent. Useful as a weapon a
 <aside class="monster">
 
 ## Ink Ooze
-### Ichorous pulsating ink blob made from demon ashes, it keeps growing 
+### Ichorous pulsating ink blob, it keeps growing 
 14 HP, 2 Armor, 12 STR, 4 DEX, 2 WIL, *see below*
 * Each turn take 1 action:
   * Grow 5 feet in all directions.
@@ -281,7 +281,7 @@ Pure alcohol, immaculately distilled. Powerful ink solvent. Useful as a weapon a
 * Is Mightier - immune to damage from bladed weapons
 * Sneak Attack - double damage if target is unaware.
 * Quick Flight - travel up to 60ft in a single movement.
-* Can create a [**Living Sketch**](#living-sketch) in turn.
+* Sketch back up - create a [**Living Sketch**](#living-sketch).
 * Critical Damage - penetrates through the target, leaves a permanent inky scar.
 * If facing mortal danger, retreats to safe location to sketch back up. 
 * **At 0 HP, the Quill falls dormant.** 
