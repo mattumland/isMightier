@@ -9,8 +9,8 @@
   alt="Banner image" 
 />
 
-## An Adventure for [Cairn](https://yochaigal.itch.io/cairn)
-### Cartography by [Dyson Logos](https://dysonlogos.blog/) / Art by [Perplexing Ruins](https://www.perplexingruins.com/)
+## An Adventure for Cairn
+### Cartography by Dyson Logos / Art by Perplexing Ruins
 
   *"I was a mapmaker and well-regarded, travelling distant lands recording the world for nobles, universities, warlords. My craft was my joy. Once I found [the Quill](#the-quill) everything changed. I craved power and sought strange magic to sate my hunger to create. Eventually I realized this need was not mine but the Quill's. It drove me like a beast of burden. When I could longer please it, it trapped me [here](#8-inner-sanctum)."*
 
@@ -259,7 +259,7 @@ Pure alcohol, immaculately distilled. Powerful ink solvent. Useful as a weapon a
 * Shelves along the north wall, full of maps.
   *  Trail through Windy Pass to the Forgotten Observatory, 75 gp.
   *  Atlas of Northern Counties and Trade Routes, *heavy*, 350 gp.
-  *  d4 selections from [the Great Cartographer](https://dysonlogos.blog/maps/commercial-maps/), 50 pg each.
+  *  d4 maps by the Great Cartographer, 50 pg each.
   *  *Any map or document needed to introduce an adventure.*
 </div>
 
